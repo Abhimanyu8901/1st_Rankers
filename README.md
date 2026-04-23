@@ -77,3 +77,5 @@ Backend: `http://localhost:5000`
 ## API Docs
 
 See [docs/api.md](/C:/Users/Abhimanyu/Documents/New%20folder2/docs/api.md).
+
+# Default admin can be seeded with `admin@coachpro.com / Admin@123`.
