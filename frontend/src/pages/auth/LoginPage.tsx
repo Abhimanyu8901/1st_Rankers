@@ -43,7 +43,6 @@ export const LoginPage = () => {
       <Button type="submit" disabled={isSubmitting} className="w-full">
         {isSubmitting ? "Signing in..." : "Login"}
       </Button>
-      <p className="text-xs text-slate-500">Default admin can be seeded with `admin@coachpro.com / Admin@123`.</p>
     </form>
   );
 };
