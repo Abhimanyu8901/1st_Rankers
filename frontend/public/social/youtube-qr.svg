@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="460" viewBox="0 0 320 460" fill="none">
+  <rect width="320" height="460" rx="28" fill="white"/>
+  <text x="160" y="66" text-anchor="middle" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">YouTube</text>
+  <rect x="48" y="102" width="224" height="224" rx="12" fill="#111111"/>
+  <rect x="72" y="126" width="40" height="40" rx="10" fill="white" fill-opacity="0.96"/>
+  <rect x="208" y="126" width="40" height="40" rx="10" fill="white" fill-opacity="0.96"/>
+  <rect x="72" y="262" width="40" height="40" rx="10" fill="white" fill-opacity="0.96"/>
+  <circle cx="160" cy="214" r="42" fill="#0F0F0F" stroke="white" stroke-width="5"/>
+  <circle cx="160" cy="214" r="18" fill="#FF0000"/>
+  <path d="M155 205L170 214L155 223V205Z" fill="white"/>
+  <g fill="white" fill-opacity="0.92">
+    <circle cx="128" cy="146" r="3"/><circle cx="144" cy="150" r="3"/><circle cx="176" cy="146" r="3"/><circle cx="190" cy="154" r="3"/>
+    <circle cx="116" cy="192" r="3"/><circle cx="204" cy="186" r="3"/><circle cx="102" cy="224" r="3"/><circle cx="218" cy="226" r="3"/>
+    <circle cx="126" cy="286" r="3"/><circle cx="194" cy="286" r="3"/><circle cx="214" cy="262" r="3"/><circle cx="108" cy="264" r="3"/>
+  </g>
+  <rect x="62" y="360" width="196" height="56" rx="12" fill="#FF0000"/>
+  <rect x="74" y="372" width="46" height="32" rx="8" fill="white"/>
+  <path d="M91 380L105 388L91 396V380Z" fill="#FF0000"/>
+  <text x="182" y="397" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">SUBSCRIBE</text>
+</svg>
